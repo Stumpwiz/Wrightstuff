@@ -1,0 +1,29 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+Developer: George Wright
+site: geo@loyola.edu
+Twitter: @stumpwiz
+Location: Baltimore MD USA
+
+Developer: Charles Wright
+Location: Reston VA USA
+
+Developer: Martha Toth
+Location: Burien WA USA
+
+# THANKS
+
+Teacher: Jonas Schmedtmann
+Site: https://codingheroes.io/
+Location: Algarve Portugal
+
+Teacher: Angela Yu
+Site: https://www.appbrewery.co/
+Location: London
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

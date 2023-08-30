@@ -1,0 +1,18 @@
+Description of the site's functionality from users' perspectives.  Assumed users: siblings, spouses, cousin (niece/nephew of sibling), stranger (anybody else).
+
+Format: As a [type of user] I want [an action] so that [a benefit].
+
+As a sibling I want to learn about my parents so that I know their stories.
+As a sibling I want to learn about my siblings so that I can know their stories.
+As a subling I want my kids to know about my parents so they better understand me.
+As a sibling I want my spouse to know about my family so he/she better understands me.
+
+As a spouse I want to know about my in-laws so that I can understand my spouse.
+As a spouse I want to know about my parents-in-law so that I can understand my spouse.
+
+As a cousin I want to know about my cousins so I can understand my extended family.
+
+As a stranger I want to satisfy curiosity about this family for amusement.
+As a stranger I want to discover information for nefarious purposes.
+As a stranger I want to get ideas for a family website so I can build my own.
+
